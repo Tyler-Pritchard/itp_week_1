@@ -14,7 +14,7 @@
 # Windows: Ctrl + /
 # Mac: Cmd + /
 # Now let's prevent the code below from running by commenting it out!
-eat_bad_pizza()
+# eat_bad_pizza()
 
 ##################################
 # dont worry about the error     #
